@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackmoses
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C# 
+- 🌱 I work with python, JavaScript and React
 - 💞️ I’m looking to collaborate on ASP.NET MVC
 
 
