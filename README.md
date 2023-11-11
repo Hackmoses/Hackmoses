@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hackmoses
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Science with Python and Excel
 - 🌱 I work with python, JavaScript and React
 - 💞️ I’m looking to collaborate on ASP.NET MVC
 
